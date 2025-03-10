@@ -1,7 +1,17 @@
-name: transparent_image
-description: A transparent image in Dart code, represented as a Uint8List.
-version: 2.0.1
-homepage: https://github.com/brianegan/transparent_image
+name: "transparent_image"
+description: "A simple transparent 1x1 pixel image, implemented as an ImageProvider."
+version: "3.0.0"
+repository: "https://github.com/brianegan/transparent_image"
+issue_tracker: "https://github.com/brianegan/transparent_image/issues"
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: "^3.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: "flutter"
+
+dev_dependencies:
+  flutter_test:
+    sdk: "flutter"
