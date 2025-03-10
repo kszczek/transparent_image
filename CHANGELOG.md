@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.0
+
+- Transparent image is approaching peak strength, now powered by a custom
+  image provider instead of a PNG image. You still can’t see it, but your
+  machine feels the relief.
+
 ## 2.0.1
 
 - Transparent image is stronger than ever, with 3 more ending bytes.
